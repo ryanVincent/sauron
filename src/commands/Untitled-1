@@ -1,0 +1,17 @@
+{
+	b-web: {
+		dependency: "1.2.0",
+	},
+	"soft-token-alternative": {
+		peerDependency: "1.2.0",
+	}
+}
+
+
+[
+	{
+module: 'b-web',
+	version: '1.2.0,
+	type: 'peer',
+	}
+]
